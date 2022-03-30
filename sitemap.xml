@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wenshiwei.top/2021/09/25/210925%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88C%EF%BC%89/</loc>
+    <loc>https://wenshiwei.top/210925%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%EF%BC%88C%EF%BC%89/</loc>
     
     <lastmod>2022-03-29</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2021/01/28/210128%20Machine-Learning%20%E5%BE%85/</loc>
+    <loc>https://wenshiwei.top/210128%20Machine-Learning%20%E5%BE%85/</loc>
     
     <lastmod>2021-02-04</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2020/11/21/201121%20Windows%E8%BF%90%E8%A1%8C%E5%A4%9A%E4%B8%AA%E7%89%88%E6%9C%ACNodejs/</loc>
+    <loc>https://wenshiwei.top/201121%20Windows%E8%BF%90%E8%A1%8C%E5%A4%9A%E4%B8%AA%E7%89%88%E6%9C%ACNodejs/</loc>
     
     <lastmod>2020-11-20</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2020/08/05/200805%20Lingo%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://wenshiwei.top/200805%20Lingo%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2020-11-19</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2020/08/21/200821%20Lingo%E8%A1%A5%E5%85%85/</loc>
+    <loc>https://wenshiwei.top/200815%20MATLAB%E8%A1%A5%E5%85%85/</loc>
     
     <lastmod>2020-11-19</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2020/08/15/200815%20MATLAB%E8%A1%A5%E5%85%85/</loc>
+    <loc>https://wenshiwei.top/200821%20Lingo%E8%A1%A5%E5%85%85/</loc>
     
     <lastmod>2020-11-19</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/2020/07/26/200726%20MATLAB%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://wenshiwei.top/200726%20MATLAB%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
@@ -131,13 +131,6 @@
   </url>
   
   <url>
-    <loc>https://wenshiwei.top/tags/Nodejs/</loc>
-    <lastmod>2022-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wenshiwei.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-03-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,17 +151,17 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://wenshiwei.top/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
+    <loc>https://wenshiwei.top/tags/Nodejs/</loc>
     <lastmod>2022-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://wenshiwei.top/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://wenshiwei.top/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
     <lastmod>2022-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -183,6 +176,13 @@
   
   <url>
     <loc>https://wenshiwei.top/categories/%E8%80%83%E7%A0%94/</loc>
+    <lastmod>2022-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenshiwei.top/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2022-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
